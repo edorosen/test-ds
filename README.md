@@ -2,10 +2,10 @@
 
 If you want to download and open my project, you must to install git on your computer [https://git-scm.com/downloads](https://git-scm.com/downloads).
 Then you need to add my files to your work space.
-Open git app and get to your work space, where write git clone https://github.com/edorosen/test-ds.git.
+Open git app and get to your work space, where write `git clone https://github.com/edorosen/test-ds.git`.
 And then all my files will clone to your computer.
 
-If you want to work with it, you must have node.js [https://nodejs.org/](https://nodejs.org/) and then in you CMD you must to install React. So, for that, you must write npm install -g create-react-app.
+If you want to work with it, you must have `node.js` [https://nodejs.org/](https://nodejs.org/) and then in you CMD you must to install `React`. So, for that, you must write `npm install -g create-react-app`.
 When it`s will done, go to files.
 
 ## Available Scripts
@@ -33,8 +33,8 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-When it's done, you must to install `static server` - npm install -g serve.
-Then, for start it on local server, use command - serve -s build.
+When it's done, you must to install `static server` - `npm install -g serve`.
+Then, for start it on local server, use command - `serve -s build`.
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
