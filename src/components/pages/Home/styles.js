@@ -112,7 +112,7 @@ export const ButtonDiv = styled.div`
 ButtonDiv.displayName = 'ButtonDiv';
 
 export const ModalButton = styled.button`
-    width: 211px;
+    width: 100%;
     height: 40px;
     border: none;
     background: #000;
