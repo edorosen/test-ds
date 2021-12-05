@@ -8,6 +8,8 @@ And then all my files will clone to your computer.
 If you want to work with it, you must have `node.js` [https://nodejs.org/](https://nodejs.org/) and then in you CMD you must to install `React`. So, for that, you must write `npm install -g create-react-app`.
 When it`s will done, go to files.
 
+Also, you can see, how it looks on [http://test.geronimo.zzz.com.ua/](http://test.geronimo.zzz.com.ua/).
+
 ## Available Scripts
 
 In the project directory, you can run:
